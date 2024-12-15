@@ -1,7 +1,6 @@
 # Car-Workshop-Simulation
 
-This is term project for the course - "Simulation & Modeling". In this project, we did analysis on how our system (Car Worshop) works and 
-i.e we did a performance analysis of the system. In this system, there were various facilities with preassigned tasks like:
+This is term project for the course - "Simulation & Modeling". In this project, we did analysis on how our system (Car Worshop) works i.e. we did a performance analysis of the system. In this system, there were various facilities with preassigned tasks like:
 
 1. Routine Maintenance
 2. Parts Replacement
